@@ -1,0 +1,14 @@
+Do-It-Youreslf Spectrophotometer
+--------------------------------
+
+1. [NZ Nano: Homemade Spectrometer/Spectrophotometer](http://nznano.blogspot.com/2011/12/homemade-spectrometerspectrophotometer.html)
+2. [Microcontrolled Based Spectrophotometer Using Compact Disc As Diffraction Grid | Muhammed Hammad - Academia.edu](http://www.academia.edu/5419184/Microcontrolled_Based_Spectrophotometer_Using_Compact_Disc_As_Diffraction_Grid)
+3. [mySpectral Arduino Spectrophotometer: Spectruino](http://myspectral.com/)
+4. [Design and construction of a digital CCD spectrometer](http://www.fzu.cz/~dominecf/electronics/usb-spect/usb_spectrometer_dominec.pdf)
+5. [Spectrometer/LED array using Charlieplexed LED&#39;s](http://www.instructables.com/id/Spectrometer-using-Charleplexed-LEDs/)
+6. [Public Lab: Spectrometer](http://publiclab.org/wiki/spectrometer)
+7. [A simple DIY spectrophotometer](http://www.instructables.com/id/A-simple-DIY-spectrophotometer/)
+8. [Public Lab DIY Spectrometry Kit by Jeffrey Yoo Warren &mdash; Kickstarter](https://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit)
+9. [DIY Spectrophotometer | Hackaday](http://hackaday.com/2011/05/20/diy-spectrophotometer/)
+10. [DIY Spectro II | Topologic Oceans](https://topologicoceans.wordpress.com/2011/03/15/diy-spectro-ii/)
+11. [Low-Cost Spectrophotometer](https://engineering.tamu.edu/media/1002926/aggie-challenge_report_-_low_cost_spectrophotometer_1_.pdf)
