@@ -4,8 +4,8 @@ Interesting projects:
 
 ---
 
-- [Future Unfolding – Procedurally generated world, both beautiful and dangerous](http://www.creativeapplications.net/games/future-unfolding-procedurally-generated-world-both-beautiful-and-dangerous/)
 - [Future Unfolding](http://www.futureunfolding.com/)
+- [Future Unfolding – Procedurally generated world, both beautiful and dangerous](http://www.creativeapplications.net/games/future-unfolding-procedurally-generated-world-both-beautiful-and-dangerous/)
 - [Spaces of Play UG (haftungsbeschränkt)](http://www.spacesofplay.com/)
 
 ---
