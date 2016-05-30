@@ -9,3 +9,4 @@ A collection of bookmarks organized in MarkDown files
 6. [Linux software for photography](linux-software-for-photography.md)
 7. [Static photo blog generators](static-photo-blog-generators.md)
 8. [Procedural generation](procedural-generation.md)
+9. [Windows command consoles](windows-command-consoles.md)
