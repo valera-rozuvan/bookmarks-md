@@ -10,3 +10,4 @@ A collection of bookmarks organized in MarkDown files
 7. [Static photo blog generators](static-photo-blog-generators.md)
 8. [Procedural generation](procedural-generation.md)
 9. [Windows command consoles](windows-command-consoles.md)
+10. [JavaScript tests](javascript-tests.md)
