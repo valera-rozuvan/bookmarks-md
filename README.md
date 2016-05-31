@@ -11,3 +11,4 @@ A collection of bookmarks organized in MarkDown files
 8. [Procedural generation](procedural-generation.md)
 9. [Windows command consoles](windows-command-consoles.md)
 10. [JavaScript tests](javascript-tests.md)
+11. [ES6 resources](es6-resources.md)
