@@ -13,3 +13,5 @@ A collection of bookmarks organized in MarkDown files
 10. [JavaScript tests](javascript-tests.md)
 11. [ES6 resources](es6-resources.md)
 12. [Emacs for JavaScript](emacs-for-javascript.md)
+13. [Programming without a mouse](programming-without-a-mouse.md)
+14. 
