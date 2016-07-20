@@ -15,3 +15,4 @@ A collection of bookmarks organized in MarkDown files
 12. [Emacs for JavaScript](emacs-for-javascript.md)
 13. [Programming without a mouse](programming-without-a-mouse.md)
 14. [Midnight Commander resources](midnight-commander-resources.md)
+15. [Fractals](fractals.md)
