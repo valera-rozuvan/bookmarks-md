@@ -32,7 +32,7 @@ This is a list of resources dealing with fractals in one way or another.
 - http://xem.github.io/miniMandelbrot/big.html
 - http://calvinmetcalf.github.io/leaflet-fractal/
 - http://codepen.io/anon/pen/Ircav
-- https://dl.dropboxusercontent.com/u/21087540/fractalviewer.html
+- https://qiemem.github.io/FractalViewer/
 - http://danielsadventure.info/html5fractal/index.html
 - http://adambom.github.io/mandelbrot/
 - http://www.grokit.ca/spc/fractals/
