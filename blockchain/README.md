@@ -1,7 +1,10 @@
 BlockChain
 ==========
 
-1. [Browser based BlockChains](browser-based-blockchain.md)
-2. [Node JS Stratum Mining](node-js-stratum-mining.md)
-3. [Ethereum Mining software](ethereum-mining-software.md)
-4. [Private Ethereum BlockChain](private-ethereum-blockchain.md)
+1. [Consensus Algorithms](consensus-algorithms.md)
+2. [Browser based BlockChains](browser-based-blockchain.md)
+3. [Storage Based BlockChains](storage-based-blockchains.md)
+4. [Node JS Stratum Mining](node-js-stratum-mining.md)
+5. [Ethereum Mining software](ethereum-mining-software.md)
+6. [Private Ethereum BlockChain](private-ethereum-blockchain.md)
+7. [Mining protocols](mining-protocols.md)
