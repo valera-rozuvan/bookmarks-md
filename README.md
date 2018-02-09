@@ -1,7 +1,7 @@
 # bookmarks-md
 A collection of bookmarks organized in MarkDown files
 
-1. [BlockChain](BlockChain.md)
+1. [BlockChain](blockchain/)
 2. [OpenVPN](OpenVPN.md)
 3. [Monitor color calibration Linux](monitor-color-calibration-linux.md)
 4. [Do-It-Youreslf Spectrophotometer](do-it-yourself-spectrophotometer.md)
