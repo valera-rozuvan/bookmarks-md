@@ -1,4 +1,6 @@
-# bookmarks-md
+bookmarks-md
+============
+
 A collection of bookmarks organized in MarkDown files
 
 1. [BlockChain](blockchain/)

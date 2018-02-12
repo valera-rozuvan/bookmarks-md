@@ -10,3 +10,4 @@ BlockChain
 7. [Mining protocols](mining-protocols.md)
 8. [BlockChain Use Cases](blockchain-use-cases)
 9. [Hyperledger](hyperledger)
+10. [Interesting reading material](interesting-reading-material.md)
