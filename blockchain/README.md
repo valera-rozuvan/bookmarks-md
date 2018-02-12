@@ -8,3 +8,5 @@ BlockChain
 5. [Ethereum Mining software](ethereum-mining-software.md)
 6. [Private Ethereum BlockChain](private-ethereum-blockchain.md)
 7. [Mining protocols](mining-protocols.md)
+8. [BlockChain Use Cases](blockchain-use-cases)
+9. [Hyperledger](hyperledger)
