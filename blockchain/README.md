@@ -11,3 +11,6 @@ BlockChain
 8. [BlockChain Use Cases](blockchain-use-cases)
 9. [Hyperledger](hyperledger)
 10. [Interesting reading material](interesting-reading-material.md)
+11. [Ethereum Tools](ethereum-tools.md)
+12. [Ethereum](ethereum.md)
+13. [Ethereum smart contracts](ethereum-smart-contracts.md)
