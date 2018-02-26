@@ -23,3 +23,4 @@ A collection of bookmarks organized in MarkDown files
 18. [Computer Science](computer-science)
 19. [Docker](docker/)
 20. [DevOps](devops/)
+21. [Static site/blog generators](static-site-blog-generators/)
