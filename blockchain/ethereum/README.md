@@ -11,3 +11,4 @@ Ethereum
 8. [DAG](dag.md)
 9. [Ethereum Online Block Explorers](ethereum-online-block-explorers.md)
 10. [Ethereum Online Token Explorers](ethereum-online-token-explorers.md)
+11. [Ethereum hacks, faults, bugs, ... and what's wrong with Ethereum in general](ethereum-hacks-faults-bugs-whats-wrong-with-ethereum/)
