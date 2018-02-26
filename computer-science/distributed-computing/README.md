@@ -2,7 +2,6 @@ Distributed Computing
 =====================
 
 1. [Distributed computing (Wikipedia)](https://en.wikipedia.org/wiki/Distributed_computing)
-    -
 2. [Distributed data store (Wikipedia)](https://en.wikipedia.org/wiki/Distributed_data_store)
     - A distributed data store is a computer network where information is stored on
       more than one node, often in a replicated fashion.
