@@ -2,7 +2,7 @@ Distributed Computing
 =====================
 
 1. [Distributed computing (Wikipedia)](https://en.wikipedia.org/wiki/Distributed_computing)
-    - 
+    -
 2. [Distributed data store (Wikipedia)](https://en.wikipedia.org/wiki/Distributed_data_store)
     - A distributed data store is a computer network where information is stored on
       more than one node, often in a replicated fashion.
@@ -30,3 +30,4 @@ Distributed Computing
       - [Cached PDF](the-cap-theorem-and-the-design-of-large-scale-distributed-systems-part-1.pdf)
     - [Part 2](http://www.diag.uniroma1.it/~querzoni/corsi_assets/1213/GreatIdeasInComputerScienceAndEngineering/GIiCSaE-cap_02.pdf)
       - [Cached PDF](the-cap-theorem-and-the-design-of-large-scale-distributed-systems-part-2.pdf)
+10. [Consensus](consensus/)
