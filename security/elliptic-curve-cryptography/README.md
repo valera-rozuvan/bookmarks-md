@@ -18,7 +18,7 @@
 7. [Presentation on Elliptic Curve Cryptography](http://www.ccs.neu.edu/home/riccardo/courses/cs6750-fa09/talks/Ellis-elliptic-curve-crypto.pdf)
     - [Cached PDF](elliptic-curve-cryptography-presentation.pdf)
 8. [ECC | An Implementation Guide](http://www.infosecwriters.com/text_resources/pdf/Elliptic_Curve_AnnopMS.pdf)
-    - [Cached PDF](ecc-an-omplementation-guide.pdf)
+    - [Cached PDF](ecc-an-implementation-guide.pdf)
 9. [ECC | A simple demonstration](https://www.math.hmc.edu/~ursula/teaching/math189/finalpapers/elaine.pdf)
     - [Cached PDF](ecc-a-simple-demonstration.pdf)
 10. [Elliptic Curve Cryptography and Digital Rights Management](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture14.pdf)
