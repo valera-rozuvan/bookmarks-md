@@ -15,3 +15,5 @@ A collection of bookmarks organized in MarkDown files
 10. [Useful utilities](useful-utilities/)
 11. [General programming articles](general-programming-articles/)
 12. [MS Windows stuff](ms-windows-stuff/)
+13. [Marketing](marketing/)
+14. [Music theory](music-theory/)
