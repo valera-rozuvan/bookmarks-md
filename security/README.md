@@ -9,6 +9,7 @@
     - [The Many Flaws of Dual_EC_DRBG](https://blog.cryptographyengineering.com/2013/09/18/the-many-flaws-of-dualecdrbg/)
 5. [Pwn (Wikipedia)](https://en.wikipedia.org/wiki/Pwn)
 6. [Crypto Museum](http://www.cryptomuseum.com/index.htm)
+7. [Privacy](privacy/)
 
 ## Interesting blogs on the subject
 
