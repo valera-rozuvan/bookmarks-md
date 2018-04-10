@@ -17,3 +17,4 @@ A collection of bookmarks organized in MarkDown files
 12. [MS Windows stuff](ms-windows-stuff/)
 13. [Marketing](marketing/)
 14. [Music theory](music-theory/)
+15. [Cordova + Android](android/cordova.md)
