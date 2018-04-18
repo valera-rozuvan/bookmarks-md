@@ -23,4 +23,6 @@
     - [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb.html)
     - [Android adb no permission](https://askubuntu.com/questions/680591/android-adb-no-permission?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
     - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules)
+    - [adb no permissions on Ubuntu 17.04](developer.android.com/tools/device.html)
+      - [see helpful answer](https://askubuntu.com/a/954053)
     - [Run/install/debug Android applications over Wi-Fi?](https://stackoverflow.com/questions/4893953/run-install-debug-android-applications-over-wi-fi)
