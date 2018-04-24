@@ -9,6 +9,7 @@ BlockChain
 6. [BlockChain Use Cases](blockchain-use-cases)
 7. [Interesting reading material](interesting-reading-material.md)
 8. [Online wallets](online-wallets.md)
+9. [Node.js based BlockChain](node-js-based-blockchain)
 
 Different types of BlockChains
 ------------------------------
