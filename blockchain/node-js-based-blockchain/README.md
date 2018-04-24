@@ -7,7 +7,6 @@
 4. [Build your first blockchain with nodeJS](https://codingislove.com/simple-blockchain-javascript/)
 5. [Build A Bitcoin Blockchain In JavaScript Part 1](https://blog.cloudboost.io/build-a-bitcoin-blockchain-in-javascript-part-1-13d8ea2873ec)
 6. [Creating a Blockchain with Node.js](https://www.sirrele.io/blog_post_10_blockchain.html)
-
 7. [A blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)
     - [Article](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 8. [ A cryptocurrency implementation in less than 1500 lines of code](https://github.com/conradoqg/naivecoin)
