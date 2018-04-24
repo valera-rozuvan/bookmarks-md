@@ -1,0 +1,14 @@
+# Numbers as sum of squares
+
+1. [Theta Functions: The Problem of the Representation of Numbers as Sums of Squares](http://www.ihes.fr/~/jcandrade/theses/Junior%20Paper.pdf)
+2. [On the Numbers of Representations of a Number as a Sum of 2r Squares, Where 2r Does not Exceed Eighteen](https://academic.oup.com/plms/article-abstract/s2-5/1/479/1443996)
+3. [Sums of Squares: An Elementary Method](https://link.springer.com/chapter/10.1007%2F978-93-86279-02-6_20)
+4. [On the number of representations of certain integers as sums of 11 or 13 squares](https://www.sciencedirect.com/science/article/pii/S0022314X03001446?via%3Dihub)
+5. [On numbers which are the sum of two squares](https://pdfs.semanticscholar.org/2ee7/446c516b5185103c59874d4f3ddf79fe4a01.pdf)
+6. [On the Representation of a Number as the Sum of Any Number of Squares, and in Particular of Five ](https://www.jstor.org/stable/1988931?seq=1)
+7. [On the representation of a number as the sum of two squares and a prime](https://projecteuclid.org/euclid.acta/1485892233)
+8. [Representing numbers as the sum of squares and powers in the ring Zn](https://arxiv.org/abs/1708.03930)
+9. [Representation of a 2-power as sum of k 2-powers: A recursive formula](https://www.sciencedirect.com/science/article/pii/S0022314X12003058)
+10. [Why are sums of powers of 2 able to give all numbers?](https://math.stackexchange.com/questions/1375991/why-are-sums-of-powers-of-2-able-to-give-all-numbers)
+11. [Sum of squares function](https://en.wikipedia.org/wiki/Sum_of_squares_function)
+12. [Jacobi's four-square theorem](https://en.wikipedia.org/wiki/Jacobi%27s_four-square_theorem)

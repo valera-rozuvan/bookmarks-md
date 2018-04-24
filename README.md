@@ -18,3 +18,5 @@ A collection of bookmarks organized in MarkDown files
 13. [Marketing](marketing/)
 14. [Music theory](music-theory/)
 15. [Cordova + Android](android/cordova.md)
+16. [Mathematics](mathematics/)
+17. [Interesting books, short stories, etc.](interesting-books-short-stories-etc/)
