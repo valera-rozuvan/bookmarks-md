@@ -12,3 +12,8 @@
 10. [Why are sums of powers of 2 able to give all numbers?](https://math.stackexchange.com/questions/1375991/why-are-sums-of-powers-of-2-able-to-give-all-numbers)
 11. [Sum of squares function](https://en.wikipedia.org/wiki/Sum_of_squares_function)
 12. [Jacobi's four-square theorem](https://en.wikipedia.org/wiki/Jacobi%27s_four-square_theorem)
+13. [Enumerating ways to decompose an integer into the sum of two squares](https://mathoverflow.net/questions/29644/enumerating-ways-to-decompose-an-integer-into-the-sum-of-two-squares)
+14. [The representation of integers as sums of squares (Goro Shimura)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.602.9723&rep=rep1&type=pdf)
+15. [On the number of primitive representations of integers as sums of squares (Shaun Cooper, Michael Hirschhorn)](https://link.springer.com/article/10.1007%2Fs11139-006-0240-6)
+16. [On the Representation of a Number as a Sum of Squares (G. B. Mathews)](https://londmathsoc.onlinelibrary.wiley.com/doi/pdf/10.1112/plms/s1-27.1.55)
+17. [Representations of Integers as Sums of Squares (KenOno)](https://www.sciencedirect.com/science/article/pii/S0022314X01927659)
