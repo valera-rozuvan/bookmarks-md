@@ -1,25 +1,26 @@
 BlockChain
 ==========
 
-1. [Consensus Algorithms](consensus-algorithms.md)
-2. [Browser based BlockChains](browser-based-blockchain.md)
-3. [Storage Based BlockChains](storage-based-blockchains.md)
-4. [Node JS Stratum Mining](node-js-stratum-mining.md)
-5. [Mining protocols](mining-protocols.md)
-6. [BlockChain Use Cases](blockchain-use-cases)
-7. [Interesting reading material](interesting-reading-material.md)
-8. [Online wallets](online-wallets.md)
-9. [Node.js based BlockChain](node-js-based-blockchain)
+\* [Consensus Algorithms](consensus-algorithms.md)
+\* [Browser based BlockChains](browser-based-blockchain.md)
+\* [Storage Based BlockChains](storage-based-blockchains.md)
+\* [Node JS Stratum Mining](node-js-stratum-mining.md)
+\* [Mining protocols](mining-protocols.md)
+\* [BlockChain Use Cases](blockchain-use-cases)
+\* [Interesting reading material](interesting-reading-material.md)
+\* [Online wallets](online-wallets.md)
+\* [Node.js based BlockChain](node-js-based-blockchain)
 
 Different types of BlockChains
 ------------------------------
 
-1. [Ethereum](ethereum/)
-2. [Hyperledger](hyperledger/)
-3. [R3 Corda](r3-corda/)
-4. [Cardano](cardano/)
+\[\*\] [Ethereum](ethereum/)<br/>
+\[\*\] [Hyperledger](hyperledger/)<br/>
+\[\*\] [R3 Corda](r3-corda/)<br/>
+\[\*\] [Cardano](cardano/)<br/>
 
 List of crypto currencies
 -------------------------
 
-1. [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/all/views/all/)
+-> [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/all/views/all/)<br/>
+
