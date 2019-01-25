@@ -1,14 +1,14 @@
-Mining protocols
-================
+# Mining protocols
 
-Getwork
--------
+## Getwork
 
-1. [Stratum mining protocol for Ethereum](https://forum.ethereum.org/discussion/7091/stratum-mining-protocol-for-ethereum)
-    - a new proposal for Stratum Protocol Specifications
-2. [What are the advantages of Stratum protocol over websocket RPC?](https://ethereum.stackexchange.com/questions/6117/what-are-the-advatages-of-stratum-protocol-over-websocket-rpc)
-3. [[ANN] Stratum for Ethereum. Increase earning up to 20% compared to getwork.](https://bitcointalk.org/index.php?topic=1200891.0)
-    - initial announcement for the Stratum protocol
+\[\>\] [Stratum mining protocol for Ethereum](https://forum.ethereum.org/discussion/7091/stratum-mining-protocol-for-ethereum)
+  - a new proposal for Stratum Protocol Specifications
+
+\[\>\] [What are the advantages of Stratum protocol over websocket RPC?](https://ethereum.stackexchange.com/questions/6117/what-are-the-advatages-of-stratum-protocol-over-websocket-rpc)<br />
+\[\>\] [[ANN] Stratum for Ethereum. Increase earning up to 20% compared to getwork.](https://bitcointalk.org/index.php?topic=1200891.0)
+  - initial announcement for the Stratum protocol
+
 4. [Atrides/eth-proxy](https://github.com/Atrides/eth-proxy)
     - Stratum proxy for Ethereum
     - This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking
