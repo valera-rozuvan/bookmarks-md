@@ -1,5 +1,4 @@
-Cardano
-=======
+# Cardano
 
 \[\>\] [Cardano ICO page](https://www.cardanohub.org/en/home/)<br />
 - Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source.<br />
