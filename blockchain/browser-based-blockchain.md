@@ -12,7 +12,7 @@
   - Cutting-edge Blockchain research and web technology streamlined to create an open
     payment protocol designed to lower multiple barriers of entry.
 
-\[\>\] [NIMIQ Luna testnet](https://nimiq.com/miner)<br />
+\[\>\] [NIMIQ Luna testnet](https://miner.nimiq.com/)<br />
   - Test of mining NIMIQ inside browser
 
 ## Lisk
