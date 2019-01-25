@@ -1,3 +1,4 @@
+<!--- mdlinkc v0 -->
 # Node JS Stratum Mining
 
 \[\>\] [zone117x/node-stratum-pool](https://github.com/zone117x/node-stratum-pool)
