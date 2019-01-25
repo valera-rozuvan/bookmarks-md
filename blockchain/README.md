@@ -15,7 +15,7 @@ Different types of BlockChains
 ------------------------------
 
 \[\~\] [Ethereum](ethereum/)<br/>
-\[\~\] [Hyperledger](hyperledger/)<br/>
+\[\~\]\[\~\] [Hyperledger](hyperledger/)<br/>
 \[\~\] [R3 Corda](r3-corda/)<br/>
 \[\~\] [Cardano](cardano/)<br/>
 
