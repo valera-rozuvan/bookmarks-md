@@ -22,5 +22,5 @@ Different types of BlockChains
 List of crypto currencies
 -------------------------
 
-\[\-\>\] [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/all/views/all/)<br/>
+\[\>\] [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/all/views/all/)<br/>
 
