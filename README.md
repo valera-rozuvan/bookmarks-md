@@ -21,4 +21,4 @@ A collection of bookmarks organized in MarkDown files
 -> [Mathematics](mathematics/)<br/>
 -> [Interesting books, short stories, etc.](interesting-books-short-stories-etc/)<br/>
 
-\* [Stockfish (chess)](https://en.wikipedia.org/wiki/Stockfish_(chess)))
+\* [Stockfish (chess)](https://en.wikipedia.org/wiki/Stockfish_((chess)))
