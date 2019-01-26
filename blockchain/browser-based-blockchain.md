@@ -18,6 +18,6 @@
 
 ## Lisk
 
-\[\>\] [Lisk Blockchain Application Platform](https://lisk.io/)
-\[\>\] [Lisk Developer Hub](https://docs.lisk.io/docs)
-\[\>\] [Lisk GitHub repository](https://github.com/LiskHQ/lisk)
+\[\>\] [Lisk Blockchain Application Platform](https://lisk.io/)  
+\[\>\] [Lisk Developer Hub](https://docs.lisk.io/docs)  
+\[\>\] [Lisk GitHub repository](https://github.com/LiskHQ/lisk)  
