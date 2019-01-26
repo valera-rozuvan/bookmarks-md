@@ -3,7 +3,7 @@
 
 ## NIMIQ
 
-\[>\] [Running a Node.js Miner for Nimiq](https://nimiq.community/2018/04/14/setting-up-nodejs_miner.html) `{added: "Feb 14, 2018", dated: "Apr 14, 2018"}`  
+\[>\] [Running a Node.js Miner for Nimiq](https://nimiq.community/2018/04/14/setting-up-nodejs_miner.html) `{"added": "Feb 14, 2018", "dated": "Apr 14, 2018"}`  
   - A simple guide on steps required to configure a Node.js miner for Nimiq running on a server.
   - Nimiq is the first blockchain built to be native to the Web platform.
 
