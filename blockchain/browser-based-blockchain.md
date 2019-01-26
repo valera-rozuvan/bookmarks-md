@@ -1,10 +1,11 @@
-<!--- mdlinkc v0 -->
+[//]: # (mdlinkc v0)
 # JavaScript based BlockChains
 
 ## NIMIQ
 
-\[\>\] [RUNNING A NODE.JS MINER FOR NIMIQ](http://nimiq.community/blog/setting-up-nodejs_miner/)
-  - A simple guide on how to set up the Node.js miner for Nimiq.
+\[\>\] [Running a Node.js Miner for Nimiq](https://nimiq.community/2018/04/14/setting-up-nodejs_miner.html)
+  - A simple guide on steps required to configure a Node.js miner for Nimiq running on a server.
+  - Nimiq is the first blockchain built to be native to the Web platform.
 
 \[\>\] [NIMIQ](https://nimiq.com/)
   - World's first Browser-based Blockchain & Ecosystem
@@ -17,6 +18,6 @@
 
 ## Lisk
 
-\[\>\] [Lisk Blockchain Application Platform](https://lisk.io/)<br />
-\[\>\] [Lisk Developer Hub](https://docs.lisk.io/docs)<br />
-\[\>\] [Lisk GitHub repository](https://github.com/LiskHQ/lisk)<br />
+\[\>\] [Lisk Blockchain Application Platform](https://lisk.io/)
+\[\>\] [Lisk Developer Hub](https://docs.lisk.io/docs)
+\[\>\] [Lisk GitHub repository](https://github.com/LiskHQ/lisk)
