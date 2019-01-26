@@ -13,10 +13,10 @@
 
 ## Different types of BlockChains
 
-\[~\] [Ethereum](ethereum/)  
-\[~\] [Hyperledger](hyperledger/)  
-\[~\] [R3 Corda](r3-corda/)  
-\[~\] [Cardano](cardano/)  
+\[=\] [Ethereum](ethereum/)  
+\[=\] [Hyperledger](hyperledger/)  
+\[=\] [R3 Corda](r3-corda/)  
+\[=\] [Cardano](cardano/)  
 
 ## List of crypto currencies
 
