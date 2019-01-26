@@ -10,8 +10,8 @@
 \[>\] [NIMIQ](https://nimiq.com/)  
   - World's first Browser-based Blockchain & Ecosystem
   - A Third-Generation Blockchain Protocol
-  - Cutting-edge Blockchain research and web technology streamlined to create an open
-    payment protocol designed to lower multiple barriers of entry.
+  - Cutting-edge Blockchain research and web technology streamlined to create an open payment protocol designed to lower
+    multiple barriers of entry.
 
 \[>\] [NIMIQ Luna testnet](https://miner.nimiq.com/)  
   - Test of mining NIMIQ inside browser
