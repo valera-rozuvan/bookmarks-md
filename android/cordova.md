@@ -1,28 +1,44 @@
+[//]: # (mdlinkc v0)
 # Cordova for Android
 
 ## Links on setting up a dev environment
 
-- Java setup
-    - [Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-    - [How To Install Java with Apt-Get on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8)
-    - [JavaPackage](https://wiki.debian.org/JavaPackage)
-- Gradle
-    - [Gradle Install](https://gradle.org/install/)
-- Android SDK: command line tools
-    - [Download](https://developer.android.com/studio/index.html#downloads)
-    - [Info](https://developer.android.com/studio/command-line/index.html)
-    - [sdkmanager](https://developer.android.com/studio/command-line/sdkmanager.html)
-    - [Installing Android SDK Tools](https://github.com/codepath/android_guides/wiki/Installing-Android-SDK-Tools)
-- Cordova
-    - [Installing Cordova on Linux](http://w34.co/tutorials/installing-cordova-on-linux/)
-    - [Cordova Android Platform Guide](https://cordova.apache.org/docs/en/latest/guide/platforms/android/)
-    - [The Command-line Interface](https://cordova.apache.org/docs/en/3.0.0/guide/cli/index.html)
-    - [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/)
-- Deploy to your Android phone
-    - [How to enable Developer Options on your Android phone or tablet](https://www.greenbot.com/article/2457986/android/how-to-enable-developer-options-on-your-android-phone-or-tablet.html)
-    - [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb.html)
-    - [Android adb no permission](https://askubuntu.com/questions/680591/android-adb-no-permission?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
-    - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules)
-    - [adb no permissions on Ubuntu 17.04](https://askubuntu.com/questions/908306/adb-no-permissions-on-ubuntu-17-04)
-      - [see helpful answer](https://askubuntu.com/a/954053)
-    - [Run/install/debug Android applications over Wi-Fi?](https://stackoverflow.com/questions/4893953/run-install-debug-android-applications-over-wi-fi)
+### Java setup
+
+\[>\] [Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) `{"added": "Apr 10, 2018", "dated": "dynamic"}`  
+\[>\] [How To Install Java with Apt-Get on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8) `{"added": "Apr 10, 2018", "dated": "Jun 27, 2017"}`  
+\[>\] [JavaPackage](https://wiki.debian.org/JavaPackage) `{"added": "Apr 10, 2018", "dated": "Jun 12, 2017"}`  
+
+### Gradle
+
+\[>\] [Gradle Install](https://gradle.org/install/) `{"added": "Apr 10, 2018", "dated": "2019"}`  
+
+### Android SDK: command line tools
+
+\[>\] [Download](https://developer.android.com/studio/#downloads) `{"added": "Apr 10, 2018", "dated": "Jan 24, 2019"}`  
+\[>\] [Command line tools](https://developer.android.com/studio/command-line/) `{"added": "Apr 10, 2018", "dated": "Jan 23, 2019"}`  
+\[>\] [sdkmanager](https://developer.android.com/studio/command-line/sdkmanager) `{"added": "Apr 10, 2018", "dated": "Jan 23, 2019"}`  
+\[>\] [Installing Android SDK Tools](https://github.com/codepath/android_guides/wiki/Installing-Android-SDK-Tools) `{"added": "Apr 10, 2018", "dated": "Dec 29, 2018"}`  
+
+### Cordova
+
+\[>\] [Installing Cordova on Linux](http://w34.co/tutorials/installing-cordova-on-linux/) `{"added": "Apr 10, 2018", "dated": "May 2, 2017"}`  
+\[>\] [Cordova Android Platform Guide](https://cordova.apache.org/docs/en/latest/guide/platforms/android/) `{"added": "Apr 10, 2018", "dated": "Jul 11, 2018"}`  
+\[>\] [The Command-line Interface](https://cordova.apache.org/docs/en/3.0.0/guide/cli/index.html) `{"added": "Apr 10, 2018", "dated": "Jul 11, 2018"}`  
+\[>\] [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/) `{"added": "Apr 10, 2018", "dated": "Jul 11, 2018"}`  
+
+### Deploy to your Android phone
+
+\[>\] [How to enable Developer Options on your Android phone or tablet](https://www.greenbot.com/article/2457986/android/how-to-enable-developer-options-on-your-android-phone-or-tablet.html) `{"added": "Apr 10, 2018", "dated": "Jan 3, 2019"}`  
+\[>\] [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb) `{"added": "Apr 10, 2018", "dated": "Jan 23, 2019"}`  
+\[>\] [Android adb no permission](https://askubuntu.com/questions/680591/android-adb-no-permission) `{"added": "Apr 10, 2018", "dated": "Aug 12, 2017"}`  
+\[>\] [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) `{"added": "Apr 10, 2018", "dated": "Jan 26, 2019"}`  
+\[>\] [adb no permissions on Ubuntu 17.04](https://askubuntu.com/questions/908306/adb-no-permissions-on-ubuntu-17-04) `{"added": "Apr 18, 2018", "dated": "Apr 26, 2017"}`  
+  - \[>\] [see helpful answer](https://askubuntu.com/a/954053) `{"added": "Apr 18, 2018", "dated": "Sep 8, 2017"}`  
+
+\[>\] [Run/install/debug Android applications over Wi-Fi?](https://stackoverflow.com/questions/4893953/run-install-debug-android-applications-over-wi-fi) `{"added": "Apr 13, 2018", "dated": "Oct 11, 2017"}`  
+
+---
+This `.md` file is generated by [mdlinkc](https://github.com/valera-rozuvan/bookmarks-md) v0.0.4. `{"created": "Apr 10, 2018", "updated": "Jan 26, 2019"}`  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+**[personal bookmarks collection](https://github.com/valera-rozuvan/bookmarks-md)** | 2015-2019 | [Valera Rozuvan](http://valera.rozuvan.net/)  
