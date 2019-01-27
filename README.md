@@ -20,6 +20,7 @@ A collection of bookmarks organized in MarkDown files
 \[=\] [Android](android/)  
 \[=\] [Mathematics](mathematics/)  
 \[=\] [Interesting books, short stories, etc.](interesting-books-short-stories-etc/)  
+\[=\] [Markdown](markdown/)
 
 \[>\] [Stockfish (chess)](https://en.wikipedia.org/wiki/Stockfish_(chess))  
 
