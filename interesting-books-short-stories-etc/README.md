@@ -1,5 +1,9 @@
 # Interesting books, short stories, etc.
 
+- [Reading lists](reading-lists.md)
+
+---------------
+
 1. [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel)
 2. [Osho](https://en.wikipedia.org/wiki/Rajneesh) books
 3. David Cooper’s __Existentialism: A Reconstruction__
