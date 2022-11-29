@@ -24,6 +24,8 @@ a collection of bookmarks organized in Markdown files
 - [Markdown](markdown/)
 - [Stockfish (chess)](https://en.wikipedia.org/wiki/Stockfish_(chess))
 
+---
+
 ## license
 
 The project `'bookmarks-md'` is licensed under the CC0-1.0.
