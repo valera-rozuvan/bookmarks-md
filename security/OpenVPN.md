@@ -4,6 +4,7 @@
 2. [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 3. [FAQ regarding OpenVPN Connect Android](https://docs.openvpn.net/faqs/faq-regarding-openvpn-connect-android/)
 4. [OpenVPN for Android](https://github.com/schwabe/ics-openvpn)
+5. Ready to use bash script solution [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
 
 ## DNS
 
