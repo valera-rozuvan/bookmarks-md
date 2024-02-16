@@ -23,6 +23,7 @@ a collection of bookmarks organized in Markdown files
 - [Interesting books, short stories, etc.](interesting-books-short-stories-etc/)
 - [Markdown](markdown/)
 - [Stockfish (chess)](https://en.wikipedia.org/wiki/Stockfish_(chess))
+- [git](git/)
 
 ---
 
